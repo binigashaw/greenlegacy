@@ -1,0 +1,108 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-07-25 14:41:48.603852",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "region",
+  "zone",
+  "woreda",
+  "kebele",
+  "site_name",
+  "reporter_name",
+  "phone",
+  "column_break_prmd",
+  "areain_hectare",
+  "seedling_planned",
+  "seedling_actual",
+  "participant_number"
+ ],
+ "fields": [
+  {
+   "fieldname": "region",
+   "fieldtype": "Data",
+   "label": "Region"
+  },
+  {
+   "fieldname": "zone",
+   "fieldtype": "Data",
+   "label": "Zone"
+  },
+  {
+   "fieldname": "woreda",
+   "fieldtype": "Data",
+   "label": "Woreda"
+  },
+  {
+   "fieldname": "kebele",
+   "fieldtype": "Data",
+   "label": "Kebele"
+  },
+  {
+   "fieldname": "site_name",
+   "fieldtype": "Data",
+   "label": "Site Name"
+  },
+  {
+   "fieldname": "column_break_prmd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "areain_hectare",
+   "fieldtype": "Int",
+   "label": "Area(In Hectare) "
+  },
+  {
+   "fieldname": "seedling_planned",
+   "fieldtype": "Int",
+   "label": "Seedling Planned"
+  },
+  {
+   "fieldname": "seedling_actual",
+   "fieldtype": "Int",
+   "label": "Seedling Actual"
+  },
+  {
+   "fieldname": "participant_number",
+   "fieldtype": "Int",
+   "label": "Participant Number"
+  },
+  {
+   "fieldname": "reporter_name",
+   "fieldtype": "Data",
+   "label": "Reporter Name"
+  },
+  {
+   "fieldname": "phone",
+   "fieldtype": "Phone",
+   "label": "Phone"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-07-25 14:48:54.608140",
+ "modified_by": "Administrator",
+ "module": "OneDay",
+ "name": "One Day Data",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
