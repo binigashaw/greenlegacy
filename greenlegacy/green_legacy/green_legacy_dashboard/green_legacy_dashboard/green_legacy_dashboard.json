@@ -1,0 +1,76 @@
+{
+ "cards": [
+  {
+   "card": "Total Planted Seedlings"
+  },
+  {
+   "card": "Total Area(In Hectare)"
+  },
+  {
+   "card": "Total Participant"
+  },
+  {
+   "card": "Planted Seedlings in AA"
+  },
+  {
+   "card": "Planted Seedlings in Afar"
+  },
+  {
+   "card": "Planted Seedlings in Amhara"
+  },
+  {
+   "card": "Planted Seedlings in BG"
+  },
+  {
+   "card": "Planted Seedlings in Central Ethiopia"
+  },
+  {
+   "card": "Planted Seedlings in Dire Dawa"
+  },
+  {
+   "card": "Planted Seedlings in Gambella"
+  },
+  {
+   "card": "Planted Seedlings in Harari"
+  },
+  {
+   "card": "Planted Seedlings in Oromia"
+  },
+  {
+   "card": "Planted Seedlings in Sidama"
+  },
+  {
+   "card": "Planted Seedlings in Somali"
+  },
+  {
+   "card": "Planted Seedlings in South Ethiopia"
+  },
+  {
+   "card": "Planted Seedlings in South West Ethiopia"
+  },
+  {
+   "card": "Planted Seedlings in Tigray"
+  },
+  {
+   "card": "Planted Seedlings in AA"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Seedling Planted Per Region",
+   "width": "Full"
+  }
+ ],
+ "creation": "2025-07-28 13:50:57.399852",
+ "dashboard_name": "Green Legacy Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2025-07-28 17:21:49.067407",
+ "modified_by": "trackaddis@gmail.com",
+ "module": "Green Legacy",
+ "name": "Green Legacy Dashboard",
+ "owner": "trackaddis@gmail.com"
+}

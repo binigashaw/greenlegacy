@@ -54,6 +54,18 @@
    "label": "Site Name"
   },
   {
+   "fieldname": "reporter_name",
+   "fieldtype": "Data",
+   "label": "Reporter Name"
+  },
+  {
+   "fieldname": "phone",
+   "fieldtype": "Phone",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Phone"
+  },
+  {
    "fieldname": "column_break_prmd",
    "fieldtype": "Column Break"
   },
@@ -80,26 +92,14 @@
    "fieldtype": "Int",
    "in_list_view": 1,
    "label": "Participant Number"
-  },
-  {
-   "fieldname": "reporter_name",
-   "fieldtype": "Data",
-   "label": "Reporter Name"
-  },
-  {
-   "fieldname": "phone",
-   "fieldtype": "Phone",
-   "in_list_view": 1,
-   "in_standard_filter": 1,
-   "label": "Phone"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-07-28 11:42:48.240294",
+ "modified": "2025-07-28 11:57:43.856768",
  "modified_by": "Administrator",
- "module": "OneDay",
+ "module": "Green Legacy",
  "name": "One Day Data",
  "naming_rule": "Autoincrement",
  "owner": "Administrator",
